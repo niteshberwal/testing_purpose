@@ -4,4 +4,4 @@ echo "This is running in a build step"
 echo "This script is from GITHUB!"
 num=$(($firstnumber + $secondnumber))
 echo "$num"
-echo "Testing Git Web hook. 3"
+echo "Testing Git Web hook. 4"
